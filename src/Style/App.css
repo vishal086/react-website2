@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(250deg,rgb(100, 46, 218),rgb(23, 201, 29),rgb(21, 239, 221));
+    box-sizing: 26px,41px,12px,4px;
+    padding: .7rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.Logo
+{
+    font-family: cursive;
+}
+
+.link 
+{
+    color: black;
+    font-family:cursive;
+    margin: 0px 0px 0px 20px;
+    text-decoration: none;
+}

@@ -7,9 +7,11 @@ import {
   AiFillYoutube,
   AiFillAmazonCircle,
 } from "react-icons/ai";
+import Services from "./Services";
 function Home() {
   return (
     <>
+      <Services/>
       <div className="home-main" id="home">
         <div className="main">
           <h1>MMMUT</h1>
